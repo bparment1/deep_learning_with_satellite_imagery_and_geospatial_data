@@ -11,7 +11,7 @@ This course provides an introduction to Deep Learning applied to geospatial and 
 Upcoming exercises:
 
 - deep learning flood mapping
-- object detection: airplane in satellite imagery
+- object detection
 
 
 
