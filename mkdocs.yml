@@ -1,0 +1,25 @@
+site_name: Deep Learning with satellite Imagery and geospatial data
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.top
+    - toc.integrate
+  palette:
+    primary: grey
+
+plugins:
+ - mkdocs-jupyter
+ - search
+
+nav:
+  - Home: 'index.md'
+  - Neural Network Basic:
+    - '01 Temperature prediction': 'temperature_predictions_DNN.ipynb'
+  - Intro Computer Vision:
+    - '02 Introduction to image classification': 'intro_to_image_classification_with_CNN_cifar10.ipynb'
+    - '03 Introduction to semantic segmentation': 'intro_to_image_classification_with_CNN_cifar10.ipynb'
+  - Transfer Learning:
+    - '04 Introduction to transfer learning: image classificaton': 'intro_to_transfer_learning_with_CNN_cifar10.ipynb'
+  - Advanced Computer Vision:
+    - '05 Hyperspectral application DL': 'hyperspectral_application_in_deep_learning.ipynb'
