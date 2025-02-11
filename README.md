@@ -8,11 +8,12 @@ This course provides an introduction to Deep Learning applied to geospatial and 
 4. introduction to semantic classification with remotely sensed data: building mapping [notebook for intro to semantic_segmentation](https://github.com/bparment1/deep_learning_with_satellite_imagery_and_geospatial_data/blob/main/intro_image_semantic_segmentation.ipynb)
 5. introduction to transfer for image classification [notebook for intro to transfer_learning_classification](https://github.com/bparment1/deep_learning_with_satellite_imagery_and_geospatial_data/blob/main/intro_to_transfer_learning_with_CNN_cifar10.ipynb)
 6. 3D hybrid CNN for hyperspectral classification [notebook for hyperspectral_application_in_deep_learning](https://github.com/bparment1/deep_learning_with_satellite_imagery_and_geospatial_data/blob/main/hyperspectral_application_in_deep_learning.ipynb) 
+7. boat detection using SAR imagery and yolov9 [notebook for SAR boat detection](https://github.com/bparment1/deep_learning_with_satellite_imagery_and_geospatial_data/blob/main/SAR_boat_detection_yolo.ipynb)
 
 Upcoming exercises:
 
 - deep learning flood mapping with sentinel 1
-- object detection yolo8
+- intro to object detection 
 
 
 
